@@ -1,5 +1,5 @@
 'use strict'
 
 module.exports = {
-  ...require('./lib/convertToSlug')
+  ...require('./lib/stringToSlug')
 }

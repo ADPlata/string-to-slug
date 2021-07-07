@@ -1,4 +1,6 @@
-const convertToSlug = (str) => {
+'use strict'
+
+function stringToSlug(str) {
     str = str.replace(/^\s+|\s+$/g, '')
       str = str.toLowerCase()
       const from = 'ãàáäâẽèéëêìíïîõòóöôùúüûñç·/_,:;'
@@ -14,5 +16,5 @@ const convertToSlug = (str) => {
 }
 
 module.exports = {
-    convertToSlug
+    stringToSlug
 }
