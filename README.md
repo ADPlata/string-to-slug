@@ -14,7 +14,7 @@ converToSlug('Your string')    # return String - example: "this-is-a-example"
 
 ## Repository
 
-https://github.com/ADPlata/string-to-slug
+https://github.com/adplata/string-to-slug
 
 ## License
 

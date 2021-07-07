@@ -1,6 +1,6 @@
 {
   "name": "@adplata/string-to-slug",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "convert strings to slug url",
   "main": "./src/index.js",
   "scripts": {
