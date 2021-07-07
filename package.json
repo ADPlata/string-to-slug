@@ -1,0 +1,16 @@
+{
+  "name": "string-to-slug",
+  "version": "1.0.0",
+  "description": "convert strings to slug url",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "string",
+    "slug",
+    "url"
+  ],
+  "author": "Ángel David Plata Bravo",
+  "license": "MIT"
+}
