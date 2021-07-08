@@ -7,8 +7,8 @@ npm install --save string-to-slug
 ## Usage
 
 ```script
-const { converToSlug } = require('@adplata/string-to-slug')
-converToSlug('Your string')    # return String - example: "this-is-a-example"
+const { stringToSlug } = require('@adplata/string-to-slug')
+stringToSlug('Your string')    # return String - example: "this-is-a-example"
 
 ```
 

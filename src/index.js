@@ -1,5 +1,7 @@
 'use strict'
 
+const { stringToSlug } = require('./lib/convertToSlug');
+
 module.exports = {
-  ...require('./lib/stringToSlug')
+    stringToSlug
 }
