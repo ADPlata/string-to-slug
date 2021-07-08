@@ -1,14 +1,14 @@
 ## Installation
 
 ```bash
-npm install --save string-to-slug
+npm i @adplata/string-to-slug
 ```
 
 ## Usage
 
 ```script
 const { stringToSlug } = require('@adplata/string-to-slug')
-stringToSlug('Your string')    # return String - example: "this-is-a-example"
+const slug = stringToSlug('Your string')    # return String - example: "this-is-a-example"
 
 ```
 
